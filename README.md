@@ -5,6 +5,7 @@
   <img align="left" alt="Vedant Jajoo Linkdin" width="21px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/linkedin.svg" />
 </a>
 </a><br/><br/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dianaiminza&theme=algolia&show_icons=true)](https://github.com/Dianaiminza)
 
 <!--
 **Dianaiminza/Dianaiminza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
