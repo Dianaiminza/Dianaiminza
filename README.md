@@ -5,9 +5,9 @@
   <img align="left" alt="Vedant Jajoo Linkdin" width="21px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/linkedin.svg" />
 </a>
 </a><br/><br/>
-[![Top Langs](https://github-readme-stats.vercel.app/api?username=Dianaiminza&theme=algolia&show_icons=true)](https://github.com/Dianaiminza)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Dianaiminza&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 <br/><br/>
-[![Diana Iminza's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=Dianaiminza&hide=html,scss,stylus,blade,jupyter%20notebook,python,css,shell,batchfile,dockerfile,typescript&theme=algolia&show_icons=true)]
+[[Diana Iminza's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=Dianaiminza&hide=html,scss,stylus,blade,jupyter%20notebook,python,css,shell,batchfile,dockerfile,typescript&theme=algolia&show_icons=true)]
 (https://github.com/DianaIminza)
 <!--
 **Dianaiminza/Dianaiminza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
