@@ -35,7 +35,7 @@ I am a passionate software developer with experience in building robust web appl
 [[![Diana Iminza's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dianaiminza&count_private=true&show_icons=true&theme=algolia&include_all_commits=true)](url)](url) 
 -->
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=Dianaiminza&langs_count=8&theme=algolia&layout=compact&hide=html,scss,stylus,blade,jupyter%20notebook,python,css,shell,batchfile,dockerfile,typescript)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=Dianaiminza&langs_count=8&theme=algolia&layout=compact&hide=html,scss,stylus,blade,jupyter%20notebook,python,c#,css,shell,batchfile,dockerfile,typescript)
 
 ---
 
