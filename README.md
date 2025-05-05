@@ -1,7 +1,7 @@
 ### Hi there 👋
 ### I'm Diana Iminza
 
-I am a passionate software developer with experience in building robust web applications and innovative solutions. I thrive in dynamic environments and love to collaborate on open-source projects.
+I'm a passionate software developer with experience in building robust web applications and innovative solutions. I thrive in dynamic environments and love to collaborate on open-source projects.
 
 ### Connect with me :smiley:
 
